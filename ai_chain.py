@@ -98,7 +98,7 @@ iface = gr.Interface(
         ["What strategies can I use to improve my work-life balance?"],
         ["How can I leverage my strengths in my career?"],
         ["What are some areas for personal growth I should focus on?"],
-        ["How can I harness machine learning, to augment my career?"],
+        ["How can I harness machine learning, to augment and improve my career?"],
     ],
     css=custom_css,
     theme=gr.themes.Soft()
